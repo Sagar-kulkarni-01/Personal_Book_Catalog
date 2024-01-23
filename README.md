@@ -1,1 +1,1 @@
-# book-selection.py
+Personal book catalog
